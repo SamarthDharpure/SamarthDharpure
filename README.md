@@ -2,4 +2,4 @@
 
 ### SAMARTH DHARPURE OFFICIAL REPOSITORY
 
-***Author** - ***Samarth Dharpure**
+**Author** - **Samarth Dharpure**
