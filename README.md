@@ -1,8 +1,12 @@
+![Banner](https://github.com/user-attachments/assets/4577fcc9-8cc3-44a7-b25b-853e9a375174)
+
 # 💫 Hi, I am Samarth
 
 **Brand Ambassador @LaunchED Global 🏆 | Aspiring SWE | 3x Intern | 3x Freelancer | Python • Java • C++ | DSA Master | Competitive Programmer ⚡ | Graphic Designer | Public Speaker 🎙️ | 5k+ @LinkedIn | Polymath 🔥**
 
-**Website - https://samarth-dharpure-1.jimdosite.com/** visit my portfolio website 😁
+**Website - https://samarth-dharpure-1.jimdosite.com/** explore my portfolio website 😁
+
+**LinkedIn - https://www.linkedin.com/in/samarth-dharpure-88a10b248/** visit my linkedin profile ☺️
 
 **Email Me - samarthdharpure910@gmail.com** for projects, collaboration & more 😊
 
