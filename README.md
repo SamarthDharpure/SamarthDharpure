@@ -8,7 +8,7 @@
 
 **LinkedIn - https://www.linkedin.com/in/samarth-dharpure-88a10b248/** visit my linkedin profile ☺️
 
-**Email Me - samarthdharpure910@gmail.com** for projects, collaboration & more 😊
+**Email Me - samarthdharpure910@gmail.com** for projects, collaborations & more 😊
 
 - 🔭 **I’m currently working on :** Commercial E-Commerce Project
 - 🌱 **I’m currently learning :** Advanced Java & More Technologies
