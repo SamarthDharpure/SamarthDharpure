@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/4577fcc9-8cc3-44a7-b25b-853e9a375174)
+![Github Banner](https://github.com/user-attachments/assets/688190c8-c8ff-4c52-aecc-423bd6766919)
 
 # 💫 Hi, I am Samarth
 
