@@ -28,7 +28,7 @@ Stay connected & updated with my journey in the field of Technology & Entreprene
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=SamarthDharpure&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 💻 Tech Stack :
 
