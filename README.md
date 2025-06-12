@@ -26,6 +26,11 @@ Stay connected & updated with my journey in the field of Technology & Entreprene
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7971E&center=true&width=435&lines=Hi+I+am+Samarth+Dharpure;A+Software+Engineer;Loves+building+cool+things" alt="Typing SVG" />
+</p>
+
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
