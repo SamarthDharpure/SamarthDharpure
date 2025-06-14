@@ -4,11 +4,11 @@
 
 **Brand Ambassador @LaunchED Global 🏆 | Aspiring SWE | 3x Intern | 3x Freelancer | Python • Java • C++ | DSA Master | Competitive Programmer ⚡ | Graphic Designer | Public Speaker 🎙️ | 5k+ @LinkedIn | Polymath 🔥**
 
-**Website - https://samarth-dharpure-1.jimdosite.com/** explore my portfolio website 😁
+**🔴 Website - https://samarth-dharpure-1.jimdosite.com/** explore my portfolio website 😁
 
-**LinkedIn - https://www.linkedin.com/in/samarth-dharpure-88a10b248/** visit my linkedin profile ☺️
+**🟡 LinkedIn - https://www.linkedin.com/in/samarth-dharpure-88a10b248/** visit my linkedin profile ☺️
 
-**Email Me - samarthdharpure910@gmail.com** for projects, collaborations & more 😊
+**🟢 Email Me - samarthdharpure910@gmail.com** for projects, collaborations & more 😊
 
 - 🔭 **I’m currently working on :** Commercial E-Commerce Project
 - 🌱 **I’m currently learning :** Advanced Java & More Technologies
