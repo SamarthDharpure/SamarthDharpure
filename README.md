@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/user-attachments/assets/688190c8-c8ff-4c52-aecc-423bd6766919)
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I am Samarth 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I am Samarth <img src="" width="30px"/>
 
 **Brand Ambassador @LaunchED Global 🏆 | Aspiring SWE | 3x Intern | 3x Freelancer | Python • Java • C++ | DSA Master | Competitive Programmer ⚡ | Graphic Designer | Public Speaker 🎙️ | 5k+ @LinkedIn | Polymath 🔥**
 
@@ -56,3 +56,5 @@ Stay connected & updated with my journey in the field of Technology & Entreprene
 ![](https://github-contributor-stats.vercel.app/api?username=SamarthDharpure&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=SamarthDharpure&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![giphy](https://github.com/user-attachments/assets/7d1551c8-ad05-4683-950a-17064b18b4a3)
