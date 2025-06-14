@@ -53,8 +53,4 @@ Stay connected & updated with my journey in the field of Technology & Entreprene
 
 ## 🔝 Top Contributed Repository
 
-![](https://github-contributor-stats.vercel.app/api?username=SamarthDharpure&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-[![](https://visitcount.itsvg.in/api?id=SamarthDharpure&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![giphy](https://github.com/user-attachments/assets/7d1551c8-ad05-4683-950a-17064b18b4a3)
+![](https://github-contributor-stats.vercel.app/api?username=SamarthDharpure&limit=5&theme=dark&combine_all_yearly_contributions=true)  [![](https://visitcount.itsvg.in/api?id=SamarthDharpure&icon=0&color=0)](https://visitcount.itsvg.in)  <img src="https://github.com/user-attachments/assets/7d1551c8-ad05-4683-950a-17064b18b4a3" width="300px"/>
