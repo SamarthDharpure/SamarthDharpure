@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/user-attachments/assets/688190c8-c8ff-4c52-aecc-423bd6766919)
+![Banner](https://github.com/user-attachments/assets/429bf0cb-8eb4-485f-a3fa-0d82a83ad586)
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I am Samarth Dharpure
 
