@@ -1,5 +1,3 @@
-![Banner](https://github.com/user-attachments/assets/429bf0cb-8eb4-485f-a3fa-0d82a83ad586)
-
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I am Samarth Dharpure
 
 **Brand Ambassador @LaunchED Global 🏆 | Aspiring SWE | 3x Intern | 3x Freelancer | Python • Java • C++ | DSA Master | Competitive Programmer ⚡ | Graphic Designer | Public Speaker 🎙️ | 5k+ @LinkedIn | Polymath 🔥**
