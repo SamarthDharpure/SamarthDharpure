@@ -8,8 +8,8 @@
 
 **🟢 Email Me - samarthdharpure910@gmail.com** for projects, collaborations & more 😊
 
-- 🔭 **I’m currently working on :** Commercial E-Commerce Project
-- 🌱 **I’m currently learning :** Advanced Java & More Technologies
+- 🔭 **I’m currently working on :** Real Time Communication Platform
+- 🌱 **I’m currently learning :** Advanced Java, DSA & More Technologies
 - 💬 **Ask me about :** Collaboration, Project Support & More
 - 😄 **Pronouns :** Samarth Dharpure
 - ⚡ **Fun fact :** Except of the professional skills, I have my expertise in many more skills with the blend of Accuracy & Creativity and a Dynamic Skillset. This is why I am called as a Polymath
