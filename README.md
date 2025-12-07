@@ -4,11 +4,11 @@
 
 **🔴 LinkedIn - https://www.linkedin.com/in/samarth-dharpure-88a10b248/** explore my linkedin profile 😎
 
-**🟡 Website - https://samarth-dharpure-1.jimdosite.com/** checkout my portfolio website 😄 
+**🟡 Website - https://samarth-dharpure-1.jimdosite.com/** check my professional portfolio website 😄 
 
-**🟢 Leetcode - https://leetcode.com/u/samarthdharpure910/** visit my leetcode profile 😁
+**🟢 Hackrank - https://www.hackerrank.com/profile/samarthdharpure1** tour my certifications 🤗
 
-**🔵 Hacke
+**🔵 Leetcode - https://leetcode.com/u/samarthdharpure910/** visit my leetcode profile 😁
 
 **🟠 Email Me - samarthdharpure910@gmail.com** for projects, collaborations & more 😊
 
