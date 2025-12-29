@@ -20,7 +20,7 @@
 
 ## 🌐 Technology & Entrepreneurship
 
-Stay connected & updated with my journey in the field of Technology & Entrepreneurship
+Stay connected & updated with my journey 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
