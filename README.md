@@ -4,7 +4,7 @@
 
 **🔴 LinkedIn - https://www.linkedin.com/in/samarth-dharpure-88a10b248/** explore my linkedin profile 😎
 
-**🟡 Website - https://samarth-dharpure-1.jimdosite.com/** check my professional portfolio website 😄 
+**🟡 Portfolio - https://samarth-dharpure-1.jimdosite.com/** check my professional portfolio website 😄 
 
 **🟢 Hackrank - https://www.hackerrank.com/profile/samarthdharpure1** tour my certifications 🤗
 
