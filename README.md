@@ -8,9 +8,9 @@
 
 **🟢 Hackrank - https://www.hackerrank.com/profile/samarthdharpure1** tour my certifications 🤗
 
-**🔵 Leetcode - https://leetcode.com/u/samarthdharpure910/** visit my leetcode profile 😁
+**🟠 Leetcode - https://leetcode.com/u/samarthdharpure910/** visit my leetcode profile 😁
 
-**🟠 Email Me - samarthdharpure910@gmail.com** for projects, collaborations & more 😊
+**🔵 Email Me - samarthdharpure910@gmail.com** for projects, collaborations & more 😊
 
 - 🔭 **I’m currently working on :** Real Time Communication Platform
 - 🌱 **I’m currently learning :** Advanced Java, DSA & More Technologies
