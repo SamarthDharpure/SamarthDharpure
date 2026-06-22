@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I am Samarth Dharpure
 
-**Aspiring SWE | Ex - SWE Intern & SDE Intern | GATE CS 2026 Qualified | 30+ Certifications | Java • Python • SQL | Spring Boot | System Design | Content Creator | Public Speaker | 6k+ @LinkedIn**
+**Aspiring Software Engineer | Ex-SWE Intern @Samatrix & @Oracle | Java • Python • C++ | SQL | DSA | Spring Boot | System Design | GATE CS 2026 Qualified | 30+ Certifications**
 
 **🔴 LinkedIn - https://www.linkedin.com/in/samarth-dharpure-88a10b248/** explore my linkedin profile 😎
 
