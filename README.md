@@ -1,3 +1,132 @@
+<h1 align="center">Hi 👋, I'm Samarth Dharpure</h1>
+<h3 align="center">Aspiring Software Engineer · Java · Python · C++ · DSA · System Design</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=550&lines=Ex-SWE+Intern+%40+Samatrix+Consulting;Ex-Project+Intern+%40+Oracle;GATE+CS+2026+Qualified;30%2B+Certifications+%7C+Always+Building" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/samarth-dharpure-88a10b248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/samarthdharpure910/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.hackerrank.com/profile/samarthdharpure1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://samarth-dharpure-1.jimdosite.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="mailto:samarthdharpure910@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧭 About Me
+
+- 🎓 Final-year **Computer Science & Engineering** student at SAGE University, Indore (Graduating June 2026)
+- 💼 Former SWE Intern **@Samatrix Consulting** (Gurugram) and Project Intern **@Oracle** (Bengaluru)
+- 🧠 GATE CS 2026 Qualified
+- 🔭 Currently building a **Real-Time Communication Platform**
+- 🌱 Currently deepening my skills in **Advanced Java, DSA, and System Design**
+- 🎯 Targeting SDE roles at **MAANG and top product-based companies**
+- ✍️ Sharing engineering and career insights as a tech content creator on LinkedIn
+- 💬 Open to talk about: collaboration, DSA, project support, and internship/interview prep
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
+
+**Backend & Frameworks**
+<p>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap&logoColor=white" />
+</p>
+
+**Databases**
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-A08021?style=flat&logo=firebase&logoColor=ffcd34" />
+</p>
+
+**Cloud & DevOps**
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0072C6?style=flat&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-2C5263?style=flat&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-181717?style=flat&logo=gitlab&logoColor=white" />
+</p>
+
+**Data & ML**
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=Matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
+</p>
+
+**Tools & Design**
+<p>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/Jira-0A0FFF?style=flat&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samarthdharpure910&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthdharpure910&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarthdharpure910&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+> Replace `samarthdharpure910` above with your exact GitHub username if it differs, or these widgets won't render.
+
+---
+
+### 📈 Practice & Achievements
+
+- 🧩 Consistent DSA practice across **LeetCode, HackerRank, and GeeksforGeeks**
+- 📜 30+ certifications across **AI, Cloud, and Computer Science** from platforms including **Google, Oracle, Harvard, and Udemy**
+- 🏅 Academic Excellence / Gold Medal award recipient
+
+---
+
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <i>📫 Reach out at <a href="mailto:samarthdharpure910@gmail.com">samarthdharpure910@gmail.com</a> — always up for collaborations and interesting projects.</i>
+</p>
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I am Samarth Dharpure
 
 **Aspiring Software Engineer | Ex-SWE Intern @Samatrix & @Oracle | Java • Python • C++ | SQL | DSA | Spring Boot | System Design | GATE CS 2026 Qualified | 30+ Certifications**
