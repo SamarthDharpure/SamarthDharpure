@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samarth Dharpure</h1>
-<h3 align="center">Aspiring Software Engineer · Java · Python · C++ · DSA · System Design</h3>
+<h3 align="center">Software Engineer · Java · Spring Boot · Python · System Design · DSA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=550&lines=Ex-SWE+Intern+%40+Samatrix+Consulting;Ex-Project+Intern+%40+Oracle;GATE+CS+2026+Qualified;30%2B+Certifications+%7C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=SWE+Intern+%40+Samatrix+Consulting;Project+Intern+%40+Oracle;Top+0.05%25+on+LeetCode;30%2B+Certifications+%7C+1%2C500%2B+DSA+Problems+Solved" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,14 +17,14 @@
 
 ### 🧭 About Me
 
-- 🎓 Final-year **Computer Science & Engineering** student at SAGE University, Indore (Graduating June 2026)
-- 💼 Former SWE Intern **@Samatrix Consulting** (Gurugram) and Project Intern **@Oracle** (Bengaluru)
-- 🧠 GATE CS 2026 Qualified
-- 🔭 Currently building a **Real-Time Communication Platform**
-- 🌱 Currently deepening my skills in **Advanced Java, DSA, and System Design**
-- 🎯 Targeting SDE roles at **MAANG and top product-based companies**
-- ✍️ Sharing engineering and career insights as a tech content creator on LinkedIn
-- 💬 Open to talk about: collaboration, DSA, project support, and internship/interview prep
+- 🎓 B.Tech in **Computer Science & Engineering**, SAGE University Indore (2022–2026), CGPA **8.45**
+- 💼 SWE Intern **@Samatrix Consulting** — built 10+ RESTful APIs/microservices, cut latency by 25% and manual data-ops effort by 40%+
+- 💼 Project Intern **@Oracle** — built a FastAPI-based RAG assistant for enterprise knowledge retrieval with hybrid semantic + lexical search
+- 🏆 Ranked **top 0.05% globally on LeetCode**; solved 1,500+ DSA problems across LeetCode, HackerRank, and GeeksforGeeks
+- 🥇 Gold Medalist & Academic Excellence Award recipient at SAGE University (top 1% in CS)
+- 🎯 Currently targeting SDE roles at **MAANG and top product-based companies**
+- ✍️ Writing engineering & career content for software engineers on LinkedIn
+- 💬 Open to talk about: backend systems, DSA, and internship/interview prep
 
 ---
 
@@ -32,22 +32,20 @@
 
 **Languages**
 <p>
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
 </p>
 
-**Backend & Frameworks**
+**Frameworks**
 <p>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
 </p>
 
 **Databases**
@@ -55,52 +53,55 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-A08021?style=flat&logo=firebase&logoColor=ffcd34" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
 </p>
 
-**Cloud & DevOps**
+**Libraries & AI/ML**
 <p>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0072C6?style=flat&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=Matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+</p>
+
+**Developer Tools & Cloud**
+<p>
+<img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-2C5263?style=flat&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab-181717?style=flat&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
 </p>
 
-**Data & ML**
+**AI-Assisted Dev**
 <p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=Matplotlib&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" />
 </p>
 
-**Tools & Design**
-<p>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
-<img src="https://img.shields.io/badge/Jira-0A0FFF?style=flat&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" />
-</p>
+---
+
+### 🚀 Featured Projects
+
+**[ChatVerse](https://github.com/SamarthDharpure/Quantix)** — Java · Spring Boot · WebSockets · MongoDB · Docker
+Real-time chat platform serving 1,000+ active users at sub-150ms latency, with a MongoDB schema optimized for 50,000+ daily messages and 99.9% message delivery reliability.
+
+**[TradeIQ](https://github.com/SamarthDharpure/TradeIQ)** — Python · TensorFlow · Scikit-learn · Streamlit · yfinance
+AI-powered stock predictor achieving 85%+ accuracy across 100+ stocks, with an interactive Streamlit dashboard for real-time multi-stock visualization.
+
+**[Quantix](https://github.com/SamarthDharpure/ChatVerse)** — Python · Tkinter · SQLite · Pandas
+Retail operations platform with 5 CRUD modules, role-based access control, and an SQLite-backed billing system that cut processing time by 60%.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samarthdharpure910&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthdharpure910&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samarthdharpure&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthdharpure&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
@@ -109,20 +110,12 @@
 
 ---
 
-### 📈 Practice & Achievements
-
-- 🧩 Consistent DSA practice across **LeetCode, HackerRank, and GeeksforGeeks**
-- 📜 30+ certifications across **AI, Cloud, and Computer Science** from platforms including **Google, Oracle, Harvard, and Udemy**
-- 🏅 Academic Excellence / Gold Medal award recipient
-
----
-
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
-  <i>📫 Reach out at <a href="mailto:samarthdharpure910@gmail.com">samarthdharpure910@gmail.com</a> — always up for collaborations and interesting projects.</i>
+  <i>📫 Reach out at <a href="mailto:samarthdharpure910@gmail.com">samarthdharpure910@gmail.com</a> — open to collaborations, backend/SDE roles, and interesting problems.</i>
 </p>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I am Samarth Dharpure
