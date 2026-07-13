@@ -18,8 +18,8 @@
 ### 🧭 About Me
 
 - 🎓 B.Tech in **Computer Science & Engineering**, SAGE University Indore (2022–2026), CGPA **8.45**
-- 💼 SWE Intern **@Samatrix Consulting** — built 10+ RESTful APIs/microservices, cut latency by 25% and manual data-ops effort by 40%+
-- 💼 Project Intern **@Oracle** — built a FastAPI-based RAG assistant for enterprise knowledge retrieval with hybrid semantic + lexical search
+- 💼 SWE Intern **@Samatrix Consulting** — built 10+ RESTful APIs/microservices, cut latency by 25% and data-ops effort by 40%+
+- 💼 Project Intern **@Oracle** — built a FastAPI-based RAG assistant for enterprise with hybrid semantic + lexical search
 - 🏆 Ranked **top 0.05% globally on LeetCode**; solved 1,500+ DSA problems across LeetCode, HackerRank, and GeeksforGeeks
 - 🥇 Gold Medalist & Academic Excellence Award recipient at SAGE University (top 1% in CS)
 - 🎯 Currently targeting SDE roles at **MAANG and top product-based companies**
