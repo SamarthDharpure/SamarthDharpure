@@ -104,7 +104,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarthdharpure910&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarthdharpure&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 > Replace `samarthdharpure910` above with your exact GitHub username if it differs, or these widgets won't render.
