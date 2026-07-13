@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samarth Dharpure</h1>
-<h3 align="center">Software Engineer · Java · Spring Boot · Python · System Design · DSA</h3>
+<h3 align="center">Software Engineer · Java · Python · C++ · DSA · System Design</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=SWE+Intern+%40+Samatrix+Consulting;Project+Intern+%40+Oracle;Top+0.05%25+on+LeetCode;30%2B+Certifications+%7C+1%2C500%2B+DSA+Problems+Solved" alt="Typing SVG" />
