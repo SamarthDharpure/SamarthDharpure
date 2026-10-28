@@ -17,7 +17,7 @@
 
 ### 🧭 About Me
 
-- 💼 Software Engineer **@Samatrix** — Engineered scalable microservices, optimized backend performance, and improved database efficiency in production systems.
+- 💼 Software Engineer **@Samatrix** — Built scalable APIs and microservices, optimizing performance using Java, Spring Boot, Python, and SQL.
 - 💼 SWE Intern **@Samatrix** — , Developed REST APIs and automated data pipelines using Java, Spring Boot, Python, and SQL.
 - 💼 Project Intern **@Oracle** — built a FastAPI-based RAG assistant for enterprise with hybrid semantic + lexical search
 - 🎓 B.Tech in **Computer Science & Engineering**, SAGE University Indore (2022–2026), CGPA **8.45**
