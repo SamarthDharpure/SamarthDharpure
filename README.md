@@ -17,14 +17,14 @@
 
 ### 🧭 About Me
 
-- 💼 Software Engineer **@Samatrix** — Built scalable APIs and microservices, optimizing performance using Java, Python, and SQL.
-- 💼 SWE Intern **@Samatrix** — , Developed REST APIs and automated data pipelines using Java, Spring Boot, Python, and SQL.
-- 💼 Project Intern **@Oracle** — built a FastAPI-based RAG assistant for enterprise with hybrid semantic + lexical search
-- 🎓 B.Tech in **Computer Science & Engineering**, SAGE University Indore (2022–2026), CGPA **8.45**
-- 🏆 Ranked **top 0.05% globally on LeetCode**; solved 1,500+ DSA problems across LeetCode, HackerRank, and GeeksforGeeks
-- 🥇 Gold Medalist & Academic Excellence Award recipient at SAGE University (top 1% in CS)
-- ✍️ Writing engineering & career content for software engineers on LinkedIn
-- 💬 Open to talk about: backend systems, DSA, and internship/interview prep
+- 💼 **Software Engineer @Samatrix** — Built scalable APIs and microservices, optimizing performance using Java, Python, and SQL.
+- 🛠️ **SWE Intern @Samatrix** — Developed REST APIs and automated data pipelines using Java, Spring Boot, Python, and SQL.
+- 🤖 **Project Intern @Oracle** — Built a FastAPI-based enterprise RAG assistant with hybrid semantic and lexical search.
+- 🎓 **B.Tech in Computer Science & Engineering** — SAGE University, Indore (2022–2026) | CGPA: **8.45**
+- 🧠 **LeetCode Top 0.05% Globally** — Solved 1,500+ DSA problems across LeetCode, HackerRank, and GeeksforGeeks.
+- 🏅 **Gold Medalist & Academic Excellence Award Recipient** — Ranked in the top 1% of CS students at SAGE University.
+- ✍️ **Technical Writer** — Sharing engineering insights and career advice for software engineers on LinkedIn.
+- 💬 **Open to Discussions** — Backend systems, DSA, and internship and interview preparation.
 
 ---
 
