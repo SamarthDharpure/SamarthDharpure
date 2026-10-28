@@ -23,7 +23,6 @@
 - 🎓 B.Tech in **Computer Science & Engineering**, SAGE University Indore (2022–2026), CGPA **8.45**
 - 🏆 Ranked **top 0.05% globally on LeetCode**; solved 1,500+ DSA problems across LeetCode, HackerRank, and GeeksforGeeks
 - 🥇 Gold Medalist & Academic Excellence Award recipient at SAGE University (top 1% in CS)
-- 🎯 Currently targeting SDE roles at **MAANG and top product-based companies**
 - ✍️ Writing engineering & career content for software engineers on LinkedIn
 - 💬 Open to talk about: backend systems, DSA, and internship/interview prep
 
