@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer · Java · Python · C++ · DSA · System Design</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Samatrix+Consulting;Project+Intern+%40+Oracle;Top+0.05%25+on+LeetCode;30%2B+Awards+%7C+1%2C500%2B+DSA+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Samatrix;SWE+Intern+%40+Samatrix;Project+Intern+%40+Oracle;Top+0.05%25+on+LeetCode;30%2B+Awards+%7C+1%2C500%2B+DSA+Problems+Solved" alt="Typing SVG" />
 </p>
 
 <p align="center">
